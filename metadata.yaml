@@ -1,0 +1,37 @@
+_repo: Four-American-Naval-HeroesPaul-Jones-Admiral-Farragut-Oliver-H.-Perry-Admiral-Dewey_36581
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Baldwin, James
+    birthdate: 1841
+    deathdate: 1925
+    gutenberg_agent_id: '1982'
+    url: http://www.gutenberg.org/2009/agents/1982
+    wikipedia: http://en.wikipedia.org/wiki/James_Baldwin_(editor_and_author)
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Beebe, Mabel Borton
+    gutenberg_agent_id: '38365'
+    url: http://www.gutenberg.org/2009/agents/38365
+description: ''
+gutenberg_issued: '2011-07-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36581'
+  lccn: '02006367'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dewey, George, 1837-1917'
+- !lcsh 'Jones, John Paul, 1747-1792'
+- !lcsh 'Perry, Oliver Hazard, 1785-1819'
+- !lcc 'E151'
+- !lcsh 'Farragut, David Glasgow, 1801-1870'
+title: "Four American Naval Heroes\r\nPaul Jones, Oliver H. Perry, Admiral Farragut,\
+  \ Admiral Dewey"
+url: http://www.gutenberg.org/ebooks/36581
